@@ -2,7 +2,9 @@
 
 Contributions and other information for PyCon US 2024.
 
-## Poster: [Stagecoaches vs Horses: An illustrated framework to evaluate the "monorepo" vs "multirepo" tradeoffs](https://us.pycon.org/2024/schedule/presentation/141/)
+## Poster: Stagecoaches vs Horses: An illustrated framework to evaluate the "monorepo" vs "multirepo" tradeoffs
+
+![image](https://github.com/lbl-rse/pycon-us-2024/assets/48035537/09602855-7c92-4c37-8944-41581112ced4)
 
 > [!IMPORTANT]
 > Come on by during the Poster Session (Sun, 10am--1pm) at Poster Board \#11!
