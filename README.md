@@ -12,7 +12,10 @@ Contributions and other information for PyCon US 2024.
 
 :placard: _<ins>[Ludovico Bianchi](https://us.pycon.org/2024/speaker/profile/160/)</ins>, Dan Gunter, Keith Beattie_
 
-Download the poster: [v2 (PDF, 30MB)](https://drive.google.com/file/d/10o4uKPliyDr9RqP9pagI6ufliKKH_2Om/view?usp=drive_link)
+Download the poster:
+
+- [v2 (PDF, 30MB)](https://drive.google.com/file/d/10o4uKPliyDr9RqP9pagI6ufliKKH_2Om/view?usp=drive_link)
+- [v2 (PNG, 5 MB)](https://drive.google.com/file/d/11EdNBzOsKRZ9ct0sTMyNgK37F0PUx0fa/view?usp=drive_link)
 
 This poster was inspired by our experiences as software-engineering experts for a number of variously related research projects in the domain of Process Systems Engineering (PSE), collectively grouped under the "PSE+" moniker:
 
