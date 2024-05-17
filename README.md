@@ -2,10 +2,18 @@
 
 Contributions and other information for PyCon US 2024.
 
+## Events
+
+### Open Space: Are you a Research Software Engineer? Interested to know more? Let's chat!
+
+- **When**: Saturday, May 18th, 1-2pm
+- **Where**: Room 315 [link to floorplan (PDF)](https://pycon-assets.s3.amazonaws.com/2024/media/documents/DLCCfloorplan.pdf)
+
+  ![image](https://github.com/lbl-rse/pycon-us-2024/assets/48035537/92c356ef-54fd-4f1d-ae83-5e130d67ce70)
+
 ## Contributions
 
 ### Poster: [Stagecoaches vs Horses: An illustrated framework to evaluate the "monorepo" vs "multirepo" tradeoffs](https://us.pycon.org/2024/schedule/presentation/141/)
-
 
 > [!IMPORTANT]
 > Come on by during the Poster Session (Sun, 10am--1pm) at Poster Board \#11!
