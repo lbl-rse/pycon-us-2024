@@ -14,7 +14,7 @@ Contributions and other information for PyCon US 2024.
 
 Download the poster: [v2 (PDF, 30MB)](https://drive.google.com/file/d/10o4uKPliyDr9RqP9pagI6ufliKKH_2Om/view?usp=drive_link)
 
-This poster was inspired by our experiences as software-engineering experts for a number of variously related projects in the domain of Process Systems Engineering (PSE), collectively grouped under the "PSE+" moniker:
+This poster was inspired by our experiences as software-engineering experts for a number of variously related research projects in the domain of Process Systems Engineering (PSE), collectively grouped under the "PSE+" moniker:
 
 - IDAES ([GitHub](https://github.com/IDAES), [website](https://idaes.org))
 - CCSI2 ([GitHub](https://github.com/CCSI-Toolset), [website](https://www.acceleratecarboncapture.org/))
