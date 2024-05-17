@@ -33,3 +33,8 @@ This poster was inspired by our experiences as software-engineering experts for 
 ## Attending
 
 - [Ludovico Bianchi](https://us.pycon.org/2024/speaker/profile/160/) ([website](https://ludob.com), [GitHub](https://github.com/lbianchi-lbl))
+
+## Useful Links
+
+- LBNL technology job openings: https://jobs.lbl.gov/page/technology-22
+  - Matching "python": https://lbl.referrals.selectminds.com/jobs/search/5312778
