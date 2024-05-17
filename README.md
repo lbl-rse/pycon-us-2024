@@ -37,4 +37,5 @@ This poster was inspired by our experiences as software-engineering experts for 
 ## Useful Links
 
 - LBNL technology job openings: https://jobs.lbl.gov/page/technology-22
+  - "Computer Systems Engineer" is likely one of the most relevant role designations (but not only!)
   - Matching "python": https://lbl.referrals.selectminds.com/jobs/search/5312778
